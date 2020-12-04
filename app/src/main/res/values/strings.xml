@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WHO</string>
+    <string name="swipe">Swipe right to continue</string>
+    <string name="confirmed_cases">Confirmed Cases</string>
+    <string name="report">Latest Situation Reports</string>
+
+
+</resources>

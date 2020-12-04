@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left">25dp</dimen>
+    <dimen name="margin_high">35dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="maring_small">5dp</dimen>
+    <dimen name="small_size">12sp</dimen>
+</resources>
