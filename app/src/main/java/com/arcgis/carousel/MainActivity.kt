@@ -73,9 +73,9 @@ class MainActivity : AppCompatActivity() {
                 if (position == 1) {
                     llSlide1.visibility = View.GONE
                     llSlide2.visibility = View.VISIBLE
-                    localTitle.text=country+"Situation in Numbers"
-                    tvLocationNumber.text=String.format("%,d", deathCases.toLong())
-                    deathCase.text=String.format("%,d", confirmedCases.toLong())
+                    localTitle.text=country+" "+"Situation in Numbers"
+                    tvLocationNumber.text=String.format("%,d", confirmedCases.toLong())
+                    deathCase.text=String.format("%,d", deathCases.toLong())
                 } else if (position == 0) {
                     llSlide1.visibility = View.VISIBLE
                     llSlide2.visibility = View.GONE
